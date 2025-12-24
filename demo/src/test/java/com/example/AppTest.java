@@ -17,4 +17,10 @@ public class AppTest
     {
         System.out.println("abcdefg");
     }
+
+    @Test
+    public void test2()
+    {
+        System.out.println("hijklmnop");
+    }
 }
